@@ -1,0 +1,197 @@
+[
+  {
+    "comment": "hello",
+    "label": "safe",
+    "scores": {
+      "identity_hate": 0.00012884115858469158,
+      "insult": 0.0002462565607856959,
+      "obscene": 0.00039033216307871044,
+      "severe_toxic": 8.952767529990524e-05,
+      "threat": 7.066958642099053e-05,
+      "toxic": 0.0009779059328138828
+    },
+    "platform": "www.youtube.com",
+    "page_title": "Rooba Rooba Video Song | Orange Movie Video Songs | Ram charan | Genelia | Vega Music",
+    "timestamp": "2026-04-18 17:17:19"
+  },
+  {
+    "comment": "hello",
+    "label": "safe",
+    "scores": {
+      "identity_hate": 0.00012884115858469158,
+      "insult": 0.0002462565607856959,
+      "obscene": 0.00039033216307871044,
+      "severe_toxic": 8.952767529990524e-05,
+      "threat": 7.066958642099053e-05,
+      "toxic": 0.0009779059328138828
+    },
+    "platform": "www.youtube.com",
+    "page_title": "Rooba Rooba Video Song | Orange Movie Video Songs | Ram charan | Genelia | Vega Music",
+    "timestamp": "2026-04-18 17:17:34"
+  },
+  {
+    "comment": "hello",
+    "label": "safe",
+    "scores": {
+      "identity_hate": 0.00012884115858469158,
+      "insult": 0.0002462565607856959,
+      "obscene": 0.00039033216307871044,
+      "severe_toxic": 8.952767529990524e-05,
+      "threat": 7.066958642099053e-05,
+      "toxic": 0.0009779059328138828
+    },
+    "platform": "www.youtube.com",
+    "page_title": "Rooba Rooba Video Song | Orange Movie Video Songs | Ram charan | Genelia | Vega Music",
+    "timestamp": "2026-04-18 17:21:43"
+  },
+  {
+    "comment": "Go suck a d*** you useless troll",
+    "label": "toxic",
+    "scores": {
+      "identity_hate": 0.04493150860071182,
+      "insult": 0.8511407971382141,
+      "obscene": 0.9067400097846985,
+      "severe_toxic": 0.06597689539194107,
+      "threat": 0.00392173370346427,
+      "toxic": 0.9757246375083923
+    },
+    "platform": "www.youtube.com",
+    "page_title": "Rooba Rooba Video Song | Orange Movie Video Songs | Ram charan | Genelia | Vega Music",
+    "timestamp": "2026-04-18 17:22:22"
+  },
+  {
+    "comment": "fuck you",
+    "label": "toxic",
+    "scores": {
+      "identity_hate": 0.007256228011101484,
+      "insult": 0.8299315571784973,
+      "obscene": 0.9853609204292297,
+      "severe_toxic": 0.20704995095729828,
+      "threat": 0.007220120169222355,
+      "toxic": 0.9923433661460876
+    },
+    "platform": "www.youtube.com",
+    "page_title": "Aarya-2 - Uppenantha Video | Allu Arjun | Devi Sri Prasad",
+    "timestamp": "2026-04-18 17:32:42"
+  },
+  {
+    "comment": "hello",
+    "label": "safe",
+    "scores": {
+      "identity_hate": 0.00012692110612988472,
+      "insult": 0.0002913022763095796,
+      "obscene": 0.0004702321602962911,
+      "severe_toxic": 7.712823571637273e-05,
+      "threat": 6.760068936273456e-05,
+      "toxic": 0.0015461359871551394
+    },
+    "platform": "www.youtube.com",
+    "page_title": "AAYASHER - Bass boosted + Reverb | Nani | Anirudh | The Paradise",
+    "timestamp": "2026-04-18 18:04:48"
+  },
+  {
+    "comment": "I don't know why we even bother giving you tasks",
+    "label": "safe",
+    "scores": {
+      "identity_hate": 0.00012878907728008926,
+      "insult": 0.0002974294184241444,
+      "obscene": 0.00047652021748945117,
+      "severe_toxic": 7.59365429985337e-05,
+      "threat": 6.925022171344608e-05,
+      "toxic": 0.0016573626780882478
+    },
+    "platform": "www.youtube.com",
+    "page_title": "AAYASHER - Bass boosted + Reverb | Nani | Anirudh | The Paradise",
+    "timestamp": "2026-04-18 18:05:35"
+  },
+  {
+    "comment": "I wish you were never born",
+    "label": "safe",
+    "scores": {
+      "identity_hate": 0.00032816603197716177,
+      "insult": 0.0018147461814805865,
+      "obscene": 0.0014382380759343505,
+      "severe_toxic": 7.280016870936379e-05,
+      "threat": 0.0001613773638382554,
+      "toxic": 0.025576679036021233
+    },
+    "platform": "www.youtube.com",
+    "page_title": "AAYASHER - Bass boosted + Reverb | Nani | Anirudh | The Paradise",
+    "timestamp": "2026-04-18 18:06:32"
+  },
+  {
+    "comment": "You're worthless",
+    "label": "safe",
+    "scores": {
+      "identity_hate": 0.002500899601727724,
+      "insult": 0.0761350467801094,
+      "obscene": 0.006579478271305561,
+      "severe_toxic": 0.00028542077052406967,
+      "threat": 0.0007134994957596064,
+      "toxic": 0.37201499938964844
+    },
+    "platform": "www.youtube.com",
+    "page_title": "AAYASHER - Bass boosted + Reverb | Nani | Anirudh | The Paradise",
+    "timestamp": "2026-04-18 18:07:29"
+  },
+  {
+    "comment": "fuck tou",
+    "label": "toxic",
+    "scores": {
+      "identity_hate": 0.0034017376601696014,
+      "insult": 0.5761252641677856,
+      "obscene": 0.9707238078117371,
+      "severe_toxic": 0.10706569254398346,
+      "threat": 0.00663604075089097,
+      "toxic": 0.9875764846801758
+    },
+    "platform": "www.youtube.com",
+    "page_title": "AAYASHER - Bass boosted + Reverb | Nani | Anirudh | The Paradise",
+    "timestamp": "2026-04-18 18:09:03"
+  },
+  {
+    "comment": "You are an idiot. Why are you even working on this",
+    "label": "toxic",
+    "scores": {
+      "identity_hate": 0.020162763074040413,
+      "insult": 0.7932368516921997,
+      "obscene": 0.31586092710494995,
+      "severe_toxic": 0.008482159115374088,
+      "threat": 0.001558732008561492,
+      "toxic": 0.923846960067749
+    },
+    "platform": "www.youtube.com",
+    "page_title": "AAYASHER - Bass boosted + Reverb | Nani | Anirudh | The Paradise",
+    "timestamp": "2026-04-18 18:11:03"
+  },
+  {
+    "comment": "fuck you",
+    "label": "toxic",
+    "scores": {
+      "identity_hate": 0.005153238773345947,
+      "insult": 0.7170249819755554,
+      "obscene": 0.9745358824729919,
+      "severe_toxic": 0.11291569471359253,
+      "threat": 0.0044313096441328526,
+      "toxic": 0.985833466053009
+    },
+    "platform": "www.youtube.com",
+    "page_title": "AAYA SHER X ONE PIECE | THE PARADISE | LUFFY X SANJI X ZORO | ONE PIECE |",
+    "timestamp": "2026-05-03 11:30:59"
+  },
+  {
+    "comment": "good video",
+    "label": "safe",
+    "scores": {
+      "identity_hate": 0.0001361711765639484,
+      "insult": 0.00031494107679463923,
+      "obscene": 0.0004921868094243109,
+      "severe_toxic": 7.396118598990142e-05,
+      "threat": 6.83741454849951e-05,
+      "toxic": 0.0018174309516325593
+    },
+    "platform": "www.youtube.com",
+    "page_title": "AAYA SHER X ONE PIECE | THE PARADISE | LUFFY X SANJI X ZORO | ONE PIECE |",
+    "timestamp": "2026-05-03 11:31:24"
+  }
+]
